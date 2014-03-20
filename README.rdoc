@@ -28,5 +28,4 @@ During this project I learned to use :
 * Git & Heroku
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+So please recruit me ! I need an internship !
